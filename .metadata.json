@@ -1,0 +1,14 @@
+[
+  {
+    "package": "facerec",
+    "oncran": true
+  },
+  {
+    "package": "imgrec",
+    "oncran": true
+  },
+  {
+    "package": "stminsights",
+    "oncran": true
+  }
+]
