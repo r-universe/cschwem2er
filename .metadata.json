@@ -1,5 +1,9 @@
 [
   {
+    "package": "facerec",
+    "oncran": true
+  },
+  {
     "package": "imgrec",
     "oncran": true
   },
