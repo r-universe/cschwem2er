@@ -8,3 +8,6 @@
 [submodule "imgrec"]
 	path = imgrec
 	url = https://github.com/cschwem2er/imgrec
+[submodule "stminsights"]
+	path = stminsights
+	url = https://github.com/cschwem2er/stminsights
